@@ -1,3 +1,3 @@
-# UBDA
+# UBDA/HW1 - KickStarter
 
-Repository for UB Data Analytics material.
+Homework on Excel using data from KickStarter crowdfunding.
